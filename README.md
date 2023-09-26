@@ -1,2 +1,2 @@
 # delta-tutorial-git
-git lecture 
+git lecture .
